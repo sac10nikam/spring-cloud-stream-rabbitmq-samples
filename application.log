@@ -1,0 +1,26 @@
+2019-08-21 18:51:35,760 INFO com.company.EmployeeApplication [main] Starting EmployeeApplication on PDCLT01JK9YLQ2 with PID 47344 (C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples\target\classes started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-21 18:51:35,764 INFO com.company.EmployeeApplication [main] No active profile set, falling back to default profiles: default
+2019-08-21 18:51:40,033 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-21 18:51:40,035 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-21 18:51:40,277 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-21 18:51:44,336 INFO com.company.EmployeeApplication [main] No active profile set, falling back to default profiles: default
+2019-08-21 18:51:44,576 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 0.335 seconds (JVM running for 10.308)
+2019-08-21 18:51:45,052 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 9.851 seconds (JVM running for 10.784)
+2019-08-21 18:52:38,809 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-08-21 18:54:21,261 INFO com.company.EmployeeApplication [main] Starting EmployeeApplication on PDCLT01JK9YLQ2 with PID 13376 (C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples\target\classes started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-21 18:54:21,267 INFO com.company.EmployeeApplication [main] No active profile set, falling back to default profiles: default
+2019-08-21 18:54:25,927 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-21 18:54:25,929 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-21 18:54:26,255 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-21 18:54:31,295 INFO com.company.EmployeeApplication [main] No active profile set, falling back to default profiles: default
+2019-08-21 18:54:31,619 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 0.438 seconds (JVM running for 11.98)
+2019-08-21 18:54:32,126 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 11.514 seconds (JVM running for 12.487)
+2019-08-21 18:54:49,160 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-3] Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-08-21 18:56:54,309 INFO com.company.EmployeeApplication [main] Starting EmployeeApplication on PDCLT01JK9YLQ2 with PID 49744 (C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples\target\classes started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-21 18:56:54,313 INFO com.company.EmployeeApplication [main] No active profile set, falling back to default profiles: default
+2019-08-21 18:56:59,356 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-21 18:56:59,359 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-21 18:56:59,772 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-21 18:57:04,999 INFO com.company.EmployeeApplication [main] No active profile set, falling back to default profiles: default
+2019-08-21 18:57:05,251 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 0.375 seconds (JVM running for 12.567)
+2019-08-21 18:57:05,837 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 12.132 seconds (JVM running for 13.153)
