@@ -901,3 +901,60 @@ Verify the connector's configuration, identify and stop any process that's liste
 2019-08-22 15:01:34,700 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 0.335 seconds (JVM running for 12.224)
 2019-08-22 15:01:35,159 INFO com.company.EmployeeApplication [main] Started EmployeeApplication in 11.67 seconds (JVM running for 12.684)
 2019-08-22 15:02:54,619 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-08-22 15:52:45,871 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 50980 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 15:52:45,874 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 15:52:53,440 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 15:52:53,444 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 15:52:54,014 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 15:53:01,654 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 17.036 seconds (JVM running for 20.505)
+2019-08-22 15:56:27,222 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 36480 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 15:56:27,224 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 15:56:34,597 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 15:56:34,601 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 15:56:35,133 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 15:56:42,994 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 16.966 seconds (JVM running for 20.239)
+2019-08-22 17:34:19,939 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 12852 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 17:34:19,949 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 17:34:26,391 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 17:34:26,395 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 17:34:26,926 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 17:34:34,103 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 15.237 seconds (JVM running for 17.86)
+2019-08-22 17:40:57,168 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 21316 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 17:40:57,170 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 17:41:02,191 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 17:41:02,195 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 17:41:02,514 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 17:41:09,671 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 13.24 seconds (JVM running for 14.884)
+2019-08-22 17:41:24,521 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 49452 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 17:41:24,524 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 17:41:31,176 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 17:41:31,180 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 17:41:31,588 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 17:41:41,031 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 17.47 seconds (JVM running for 19.994)
+2019-08-22 17:42:13,726 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 42248 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 17:42:13,728 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 17:42:20,376 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 17:42:20,379 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 17:42:20,795 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 17:42:30,376 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 17.639 seconds (JVM running for 20.23)
+2019-08-22 17:44:43,064 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 39036 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 17:44:43,066 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 17:44:49,415 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 17:44:49,418 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 17:44:49,759 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 17:44:54,502 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring FrameworkServlet ''
+2019-08-22 17:44:58,427 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 16.156 seconds (JVM running for 17.997)
+2019-08-22 17:45:17,424 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 2224 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 17:45:17,426 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 17:45:23,629 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 17:45:23,632 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 17:45:23,975 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 17:45:27,892 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring FrameworkServlet ''
+2019-08-22 17:45:31,622 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 15.099 seconds (JVM running for 16.892)
+2019-08-22 17:46:04,003 INFO com.company.employee.EmployeePublisherTest [main] Starting EmployeePublisherTest on PDCLT01JK9YLQ2 with PID 50896 (started by P10481516 in C:\PageOne\workspace_poc\POC\spring-cloud-stream-rabbitmq-samples)
+2019-08-22 17:46:04,013 INFO com.company.employee.EmployeePublisherTest [main] No active profile set, falling back to default profiles: default
+2019-08-22 17:46:12,783 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-08-22 17:46:12,786 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet Engine: Apache Tomcat/8.5.23
+2019-08-22 17:46:13,231 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-08-22 17:46:17,119 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring FrameworkServlet ''
+2019-08-22 17:46:21,457 INFO com.company.employee.EmployeePublisherTest [main] Started EmployeePublisherTest in 18.713 seconds (JVM running for 22.531)

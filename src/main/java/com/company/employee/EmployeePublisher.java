@@ -1,10 +1,12 @@
 package com.company.employee;
+import static org.springframework.http.HttpStatus.CREATED;
 import static org.springframework.http.MediaType.APPLICATION_JSON_VALUE;
 
 import javax.validation.Valid;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.annotation.EnableBinding;
+import org.springframework.http.ResponseEntity;
 import org.springframework.integration.support.MessageBuilder;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -23,9 +25,9 @@ public class EmployeePublisher {
 	private EmployeeSource employeeSource;
 
 	@PostMapping(path = "/register", consumes = APPLICATION_JSON_VALUE, produces = APPLICATION_JSON_VALUE)
-	public String register(@Valid @RequestBody Employee employee) {
+	public <T> ResponseEntity<T> register(@Valid @RequestBody Employee employee) {
 		employeeSource.addEmployeeOutput().send(MessageBuilder.withPayload(employee).build());
 		log.debug(employee.toString());
-		return "Employee Registered";
+		return new ResponseEntity<>(CREATED);
 	}
 }
